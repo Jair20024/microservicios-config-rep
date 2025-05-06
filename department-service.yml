@@ -1,7 +1,0 @@
-spring.application.name=department-service
-server.port=8270
-spring.datasource.url=jdbc:postgresql://localhost:5432/bdmicio
-spring.datasource.username=postgres
-spring.datasource.password=laboguerra
-spring.datasource.driver-class-name=org.postgresql.Driver
-spring.jpa.hibernate.ddl-auto=update
